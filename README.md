@@ -1,101 +1,242 @@
-👋 Hi, I'm Ritik Kumar
+<!-- ================= HERO SECTION ================= -->
 
-<h3 align="center">🚀 Software Developer | AI/ML Enthusiast | Python Developer</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ritik2006kumar&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-Exploration-8A2BE2?style=for-the-badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09001F,50:321078,100:00D4FF&text=RITIK%20KUMAR&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Building%20Intelligent%20Things%20With%20Code&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
-👨‍💻 About Me
-🔭 I'm passionate about building AI-powered applications, intelligent assistants, and automation systems.
-🤖 Exploring Artificial Intelligence, Machine Learning, LLMs, and Generative AI.
-🧠 Interested in developing smart recommendation systems and conversational AI.
-🐍 Working with Python to build practical and innovative projects.
-⚡ I enjoy experimenting with new technologies and solving real-world problems.
-🎯 My goal is to become a skilled software engineer and AI developer.
-🏛️ Technical Interests & Expertise
+<a href="https://github.com/Ritik2006kumar">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer+%F0%9F%90%8D;Building+Intelligent+AI+Assistants;Exploring+Android+%26+Automation;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ritik2006kumar&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+
+<a href="https://github.com/Ritik2006kumar?tab=followers">
+<img src="https://img.shields.io/github/followers/Ritik2006kumar?style=for-the-badge&logo=github&color=181717&label=FOLLOWERS" />
+</a>
+
+<a href="https://github.com/Ritik2006kumar?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-00D9FF?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+<!-- ================= ABOUT ME ================= -->
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
+python
+class RitikKumar:
+
+    def __init__(self):
+        self.name = "Ritik Kumar"
+        self.role = "Software Developer"
+        self.languages = ["Python", "Java", "Kotlin"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Android Development",
+            "Automation",
+            "Cybersecurity"
+        ]
+        self.current_focus = "Building Intelligent Applications"
+
+    def say_hi(self):
+        print("Welcome to my GitHub! Let's build something amazing.")
+
+me = RitikKumar()
+me.say_hi()
+
+🔭 Exploring AI-powered applications and intelligent systems.
+🤖 Building AI assistants, chatbots and recommendation systems.
+🧠 Learning LLMs, Generative AI and Machine Learning.
+🐍 Developing applications using Python.
+📱 Exploring Android development and mobile technologies.
+⚡ Passionate about turning innovative ideas into real-world projects.
+
+<!-- ================= TECH STACK ================= -->
+
+⚡ Tech Arsenal
+
+<div align="center">
+
+💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp&theme=dark" />
+
+🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+🛠️ Tools & Development
+
+<img src="https://skillicons.dev/icons?i=android,git,github,vscode,linux,sqlite,firebase&theme=dark" />
+
+</div>
+
+<!-- ================= EXPERTISE ================= -->
+
+🧠 Engineering Interests
 Domain	Technologies & Concepts
 Programming	Python, Java, Kotlin
-Artificial Intelligence	Machine Learning, Recommendation Systems
-Generative AI	LLMs, Ollama, LangChain
+AI & ML	Machine Learning, Recommendation Systems
+Generative AI	LLMs, LangChain, Ollama
+Computer Vision	Face Detection, OpenCV
 AI Applications	Chatbots, Virtual Assistants, NLP
-Computer Vision	Face Detection, Image Processing
-Frameworks	Streamlit
-Development Tools	Git, GitHub, VS Code
-Interests	Android Development, Automation, Cybersecurity
-🛠️ Tech Stack
+Android	Android SDK, Mobile App Development
+Automation	Python Automation, Desktop Assistants
+Security	Cybersecurity Fundamentals
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,android,tensorflow,opencv,git,github,vscode,linux" />
-</p>
+<!-- ================= FLAGSHIP PROJECT ================= -->
 
-<p align="center">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+🚀 Flagship Project
 
-🌟 Featured Projects
+<div align="center">
+
+<a href="https://github.com/Ritik2006kumar/MAX">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:12002F,50:3B1B80,100:0077FF&text=VOXPILOT%20%2F%20MYRA&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+</a>
+
+🤖 MAX — AI Assistant
+
+An exploration of AI-powered assistance, automation and intelligent application development.
+
+<a href="https://github.com/Ritik2006kumar/MAX">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+🌟 Other Projects
+
+<table>
+<tr>
+<td width="50%">
+
 🤖 AI Virtual Assistant
 
-An intelligent assistant focused on automation and AI-powered interactions.
+An intelligent assistant exploring voice interaction and task automation.
 
-🧠 Music Recommendation System
+</td>
+<td width="50%">
 
-A machine learning project designed to recommend music based on user preferences.
+🧠 Music Recommendation
+
+A machine learning-based music recommendation project.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 💬 AI Chatbot
 
-An AI-powered conversational application exploring LLM integration with LangChain and Ollama.
+Conversational AI using LangChain and Ollama.
 
-👤 Face Detection System
+</td>
+<td width="50%">
 
-A computer vision project focused on detecting human faces using Python-based technologies.
+👁️ Face Detection
+
+Computer vision and face detection using Python.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ⚡ Desktop Assistant
 
-A Python-based desktop assistant designed to simplify everyday tasks through automation.
+Python-powered desktop automation.
 
-📈 GitHub Analytics
+</td>
+<td width="50%">
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritik2006kumar&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
-</p>
+📱 Android Development
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ritik2006kumar&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik2006kumar&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
+Exploring mobile application development.
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Ritik2006kumar&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-</p>
+</td>
+</tr>
+</table>
 
-🏆 GitHub Trophies
+<!-- ================= GITHUB ANALYTICS ================= -->
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ritik2006kumar&theme=tokyonight&no-frame=true&no-bg=true&column=4" width="100%" alt="GitHub Trophies" />
-</p>
+📊 GitHub Analytics
 
-🐍 Contribution Graph
+<div align="center">
 
-<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritik2006kumar&theme=tokyonight" />
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ritik2006kumar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik2006kumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Ritik2006kumar&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<!-- ================= CONTRIBUTION ================= -->
+
+🐍 Contribution Activity
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
-</p>
 
-📫 Connect With Me
+</div>
 
-<p align="center">
+<!-- ================= TROPHIES ================= -->
+
+🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ritik2006kumar&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
+
+</div>
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritik2006kumar&bg_color=0d1117&color=00d9ff&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<!-- ================= CONNECT ================= -->
+
+🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://github.com/Ritik2006kumar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
-<h3 align="center">💡 Keep Learning | Keep Building | Keep Innovating 🚀</h3>
+</div>
 
-<p align="center">
-⭐ Thanks for visiting my GitHub profile!
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Think+Beyond+Limits.;Keep+Learning.+Keep+Building.+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:321078,100:09001F&height=120&section=footer" width="100%" />
+
+⭐ Thanks for visiting my profile!
+
+</div>
